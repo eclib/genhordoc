@@ -1,0 +1,30 @@
+FIXES:
+
+En la seccion NP-Completo añadi figuras perdidas (simbolo pertenece).
+Autotexto en todas las figuras, numero de figuras corregido + titulos.
+Autotexto en todas las tablas, numero de tabla + titulos.
+tabla de normas dividida en 2, no cae en una sola pagina.
+
+
+FORMATO DE TITULOS:
+TITULO 1 (ejemplo: Capítulo Nº 3: Marco Teórico.):
+Título 1 + 12 pt, Derecha:  0,15 cm, Después:  14,15 pto
+
+TITULO 2 (ejemplo: 3.1 Ámbito del Problema.):
+Título 2 + 12 pt;Negrita
+
+TITULO 3 (ejemplo:3.3.1 Comunicación con el Cliente.):
+Título 3 + 12 pt;Negrita
+
+TITULO 4 (ejemplo: 5.1.1.1 Descripción general del proyecto):
+Título 4 + Izquierda:  0 cm, Primera línea:  1,25 cm
+
+TEXTO NORMAL:
+Texto independiente + Justificado, Primera línea:  1,25 cm
+
+TABLAS BORDE SUPERIOR SOMBREADO CON GRIS 15%
+
+TITULOS DE TABLAS E ILUSTRACIONES CON AUTOTEXTO PARA QUE LAS DETECTE EL INDICE
+
+INDICES CORREGIDOS (CONTENIDO, ILUSTRACIONES Y TABLAS)
+

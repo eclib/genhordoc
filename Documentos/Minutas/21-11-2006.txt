@@ -1,0 +1,134 @@
+Asitentes.
+----------
+Claudia Cornejo.
+Juan Bello.
+Dario Diaz.
+Eduardo Llanquileo.
+
+1) Primera iteracion ...
+	Fecha: 27.11.2006 antes del medio dia. (Milton, Alvaro y Claudia)
+		Modelo de datos.
+		(Milton, Dario, Eduardo)
+
+		Interfases (Validaciones, Despliegue de descripciones por los id, asistencias de codigos). 
+		(Juan).
+
+		Reporte de Horario Generales. 
+		( Eduardo ).
+
+		Genetico Completo sin pruebas 
+		( Dario ).
+		
+		Manual de usuario de cada opcion.
+		(Eduardo,Juan, Dario) Tester (Milton, Claudia y Alvaro)		
+
+2) Segunda Iteracion ...
+	Fecha: 01.12.2006 Antes del medio dia. (Milton, Claudia, Dario)
+		Modelo de datos (Si cambia).
+		(Milton, Dario, Eduardo).
+		
+		Reporte Horario por curso.
+		(Eduardo).
+
+		Reporte Horario por profesor.
+		(Eduardo).
+
+		Interfases involucradas en los cambios.
+		(Juan).
+
+		Checkpoint.
+		(Dario)
+
+		Manual de usuario de cada opcion.
+		(Eduardo,Juan, Dario) Tester (Milton, Claudia y Alvaro)		
+
+		Pruebas de Funcionamiento. 03.12.2006
+		(Milton, Alvaro y Claudia).
+					
+3) Tercera iteracion ...
+	// Definicion de ramos con horario fijo
+	// Definicion de profesores que dictes estos ramos, sea uno para todos o varios.
+	Fecha: 06.12.2006 Antes del medio dia. (Milton, Claudia, Dario, Alvaro, Eduardo y Juan)
+		Modelo de datos.
+		(Milton, Dario, Eduardo)
+
+		Interfases.
+		(Juan, Eduardo, Dario)
+		
+		Manual de usuario.
+		(Eduardo,Juan, Dario) Tester (Milton, Claudia y Alvaro)
+		
+4) Presentacion del 25.11.2006.
+	Fecha: 22.11.2006.
+		(Claudia) 5 minutos maximo 5 diapositivas si no tienen diagramas, imagenes o animaciones
+		Introduccion
+			Descripcion
+				El problema (np-completo)
+			Objetivos
+			Metodos de evaluacion
+
+		(Alvaro) 5 minutos maximo 5 diapositivas si no tienen diagramas, imagenes o animaciones
+		Metodologia y Modelo
+			Teoria
+				Espiral Evolutivo (Favor revisar con Milton)
+					Autores
+					Descripcion
+						Etapas
+				Metricas
+					Autores
+					Descripcion
+						Etapas
+				Omt++
+					Autores
+					Descripcion
+						Etapas
+		(------- Nota ---- Manejar el tema de costos una diapo en una powerpoint separado)
+
+		(Dario) 5 minutos maximo 5 diapositivas si no tienen diagramas, imagenes o animaciones
+		Teoria
+			Heuristica
+			Genetica
+
+		(Eduardo) 5 minutos maximo 5 diapositivas si no tienen diagramas, imagenes o animaciones
+		Implementacion
+			Esquema de la aplicacion.
+		Avance
+			Gantt
+				% de avance respecto a la Gantt
+		Conclusion
+			* Dificultad de la teoria
+			* Implementacion de las metodologia
+			* Conclusion como avance.
+
+5) Que nos falta:
+	Juan    : * Costos
+
+	Eduardo : * Libreria itextSharp para creacion de PDF.
+
+	Dario   : * Revision a conciencia de lo documentos.
+		  * Yo me pongo con una resma de 500 hojas.
+	          * Claudia se pone con el resto de las hojas (en teoria 140 hojas mas).
+		  * Reunir dinero para:
+			A) impresion de 4 copias de los documentos.
+			B) Compra de toner. $12500.
+			C) Empaste 
+			D) Anillado.
+			E) Copia en CD X 2 copias.
+			F) Copias de la presentacion para comision
+			G) Carpetas.
+			H) Pequeño "coctel".
+			I) Tener tarjetas personalizadas para los discursos.
+			J) Piocha con los nombres de cada uno y de la aplicacion desarrollada.
+			K) Si quieren una copia de la presentacion pagar por el DVD virgen.
+			L) Si quieren un album de fotos Preguntarle al eduardo por el costo (165 por foto, referenciado por la cladia).
+			
+
+			Nota: * Cualquier copia fuera de lo estipulado por la escuela debe ser de costo personal.
+			      * 640 hojas aproximadamente para 4 copias de 160 hojas.
+			
+	
+	Claudia : * Definir herramientas y sus licencias.
+		  * Tener a disposicion el dia de la presentacion final al menos 2 portatiles con la aplicacion, 
+		    presentacion y documentacion del seminario.
+
+	
